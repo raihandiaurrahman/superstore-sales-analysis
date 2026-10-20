@@ -1,0 +1,4 @@
+   Dataset: Superstore Sales
+   Sumber: https://www.kaggle.com/datasets/naveenkumar20bps1137/sample-superstore
+   Periode: 2014-2017
+   Diunduh pada: 18 Oktober 2026
